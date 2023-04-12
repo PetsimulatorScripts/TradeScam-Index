@@ -1,0 +1,19 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("TITLE", "BloodTheme
+
+--TradeScam
+local TradeScam = Window:NewTab("TradeScam")")
+local TradeScamSection = TradeScam:NewSection("TradeScam")
+
+
+TradeScamSection:NewToggle("TradeScam", "Put Pets Away when on", function(state)
+    if state then
+        https://pastebin.com/raw/E8K8B07t
+    else
+        https://pastebin.com/raw/E8K8B07t
+    end
+end)
+
+--IndexCollecter
+local IndexCollecter = Window:NewTab("IndexCollecter")
+local IndexCollecterSection = IndexCollecter:NewSection("IndexCollecter")
