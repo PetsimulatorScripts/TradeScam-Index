@@ -17,3 +17,8 @@ end)
 --IndexCollecter
 local IndexCollecter = Window:NewTab("IndexCollecter")
 local IndexCollecterSection = IndexCollecter:NewSection("IndexCollecter")
+
+
+IndexSection:NewButton("IndexCollecter", "Auto Opens egg not in index", function()
+    https://pastebin.com/raw/E8K8B07t
+end)
